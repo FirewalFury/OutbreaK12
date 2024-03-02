@@ -1,2 +1,2 @@
 # OutbreaK12
-A muti-platform tool for jailbreaking managed devices
+A silly tool for injecting executables into local storage
